@@ -1,0 +1,10 @@
+﻿  MultiplayerSnake.cpp
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(320): warning C4305: '=': truncation from 'double' to 'float'
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(364): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+MultiplayerSnake.obj : error LNK2019: unresolved external symbol _SDLNet_Init referenced in function "public: __thiscall UDPServer::UDPServer(void)" (??0UDPServer@@QAE@XZ)
+MultiplayerSnake.obj : error LNK2019: unresolved external symbol _SDLNet_AllocPacket referenced in function "public: __thiscall UDPServer::UDPServer(void)" (??0UDPServer@@QAE@XZ)
+MultiplayerSnake.obj : error LNK2019: unresolved external symbol _SDLNet_UDP_Open referenced in function "public: __thiscall UDPServer::UDPServer(void)" (??0UDPServer@@QAE@XZ)
+MultiplayerSnake.obj : error LNK2019: unresolved external symbol _SDLNet_UDP_Recv referenced in function "public: void __thiscall UDPServer::ReceivePackage(void)" (?ReceivePackage@UDPServer@@QAEXXZ)
+MultiplayerSnake.obj : error LNK2019: unresolved external symbol _SDLNet_GetError referenced in function "public: __thiscall UDPServer::UDPServer(void)" (??0UDPServer@@QAE@XZ)
+SDL2_mixer.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+F:\Projects\MultiplayerSnake\Debug\MultiplayerSnake.exe : fatal error LNK1120: 5 unresolved externals

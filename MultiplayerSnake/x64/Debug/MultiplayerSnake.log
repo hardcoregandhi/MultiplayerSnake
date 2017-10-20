@@ -1,0 +1,7 @@
+﻿  MultiplayerSnake.cpp
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(387): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(577): warning C4305: '=': truncation from 'double' to 'float'
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(584): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(427): warning C4101: 'client': unreferenced local variable
+f:\projects\multiplayersnake\multiplayersnake\multiplayersnake.cpp(451): warning C4101: 'res': unreferenced local variable
+  MultiplayerSnake.vcxproj -> F:\Projects\MultiplayerSnake\x64\Debug\MultiplayerSnake.exe
